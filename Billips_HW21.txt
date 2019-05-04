@@ -1,0 +1,22 @@
+*/
+Project Name: Hands-On Exercises 6.4-6.7
+Author: Jasmine Billips
+Date Last Modified: April 25, 2019
+/*
+
+1. .questionone {
+background-color: #90EE90;
+position: relative;
+left: 15px;
+}
+
+2. #questiontwo {
+position: fixed;
+background-color: #E6E6E6;
+font-weight: bold;
+padding: 10px;
+}
+
+3. ul ( list-style-image: url(myimage.gif);}
+
+4. ul { list-style-type: square;}
